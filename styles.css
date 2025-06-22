@@ -1,0 +1,160 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.bgputih {
+  height: 289px;
+  width: 100%;
+  background-image: linear-gradient(#efefef, #fcfcfc);
+}
+.bghitam {
+  height: 367px;
+  width: 100%;
+  background-color: #151515;
+}
+.bgabu {
+  height: 339px;
+  width: 100%;
+  background-image: linear-gradient(#c2c2c2, #b6b6b6);
+}
+.montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.montserrat-bold {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 61px;
+  background-color: transparent;
+}
+.navbab {
+  background-color: transparent;
+  display: flex;
+  position: absolute;
+  left: 530px;
+}
+.navbar-wrapper a {
+  padding: 11px 32px;
+  text-decoration: none;
+  font-size: 32px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: #000;
+}
+.navbar-wrapper a:hover {
+  background-color: #000;
+  color: #e9e9e9;
+}
+.inputbox {
+  position: relative;
+  bottom: 22px;
+  width: 202px;
+  height: 35px;
+  border-radius: 6px;
+  border: none;
+  margin-right: 15px;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.25);
+  margin-left: 17px;
+}
+#searchb {
+  position: relative;
+  bottom: 6px;
+}
+.popo {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  width: 551px;
+}
+.main-text {
+  font-size: 74px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  color: #e9e9e9;
+  position: relative;
+  left: 800px;
+  top: 68px;
+  line-height: 70px;
+}
+.ijo {
+  color: #00ae72;
+}
+.sectext {
+  color: #e9e9e9;
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  position: relative;
+  left: 803px;
+  top: 82px;
+  width: 504px;
+}
+.readmore-button {
+  padding: 16px;
+  background-color: #00ae72;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: #151515;
+  font-size: 16px;
+  border: none;
+  position: absolute;
+  top: 506.4px;
+  left: 1170px;
+}
+
+.teksputih {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-size: 32px;
+  color: #151515;
+  position: relative;
+  top: 230px;
+  left: 800px;
+}
+.sosmed a {
+  padding-right: 17px;
+  position: relative;
+  top: 90px;
+  left: 90px;
+}
+.facebook-image,
+.instagram-image,
+.twitter-image,
+.whatsapp-image {
+  width: 40px;
+}
+table {
+  position: absolute;
+  top: 700px;
+  left: 797px;
+  width: 353px;
+}
+th,
+td {
+  padding: 5px;
+}
+.inputbox-putih {
+  width: 100%;
+  height: 30px;
+}
